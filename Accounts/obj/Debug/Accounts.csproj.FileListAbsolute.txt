@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\curso 2\Accounts\Accounts\bin\Debug\Accounts.exe.config
+C:\Users\Otavio\Desktop\curso 2\Accounts\Accounts\bin\Debug\Accounts.exe
+C:\Users\Otavio\Desktop\curso 2\Accounts\Accounts\bin\Debug\Accounts.pdb
+C:\Users\Otavio\Desktop\curso 2\Accounts\Accounts\obj\Debug\Accounts.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\curso 2\Accounts\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\curso 2\Accounts\Accounts\obj\Debug\Accounts.exe
+C:\Users\Otavio\Desktop\curso 2\Accounts\Accounts\obj\Debug\Accounts.pdb
